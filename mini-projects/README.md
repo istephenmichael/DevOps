@@ -28,7 +28,7 @@ Before proceeding, ensure your system meets the following minimum requirements:
 ### 2. GitHub Account
 
 *   **[Purpose](pplx://action/followup):** Version control, collaboration, and code hosting.
-*   **[Action](pplx://action/followup):** Create a GitHub account. - ![]() https://github.com/
+*   **[Action](pplx://action/followup):** Create a GitHub account. - https://github.com/
 *   ![](https://github.com/istephenmichael/DevOps/blob/27bb45c197bc3864c301d9bcda49d0d04f5cbd62/mini-projects/github2.png) 
 *   **[Note](pplx://action/followup):** Enable two-factor authentication (2FA) for enhanced security.
 
@@ -71,8 +71,7 @@ Before proceeding, ensure your system meets the following minimum requirements:
 
 *   **[Purpose](pplx://action/followup):** Run multiple operating systems on a single machine for testing and development.
 *   **[Action](pplx://action/followup):** Download and install VirtualBox - https://www.virtualbox.org/wiki/Downloads
-*   ![](https://github.com/istephenmichael/DevOps/blob/9f8f358e5ce9972927c94b1f8e213caf455e55ca/mini-projects/virtualbox1.png)
-  ![[virtualbox 1.png]]
+*   ![](https://github.com/istephenmichael/DevOps/blob/01da347c01f10d06fbf4837d16e25ff3e34535bb/mini-projects/virtualbox.png)
 *   **[Note](pplx://action/followup):** Enable Virtualization Technology (VT-x/AMD-V) in your BIOS/UEFI settings for optimal performance.
 
 ### 5. Ubuntu (Virtual Machine)
