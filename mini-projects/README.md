@@ -18,6 +18,8 @@ Before proceeding, ensure your system meets the following minimum requirements:
 
 *   **[Purpose](pplx://action/followup):** Access to cloud computing resources for development and deployment.
 *   **[Action](pplx://action/followup):** Create a free tier AWS account. - https://aws.amazon.com/
+
+*   ![](https://github.com/istephenmichael/DevOps/blob/144289f75dc8bfda62fe602863b997f2e014b696/mini-projects/aws.png)
 * ![[https://drive.google.com/file/d/164nWJ5gijjem0dmrWrfZJ6LoIGAV8XeG/view?usp=sharing/aws 2.png]]
 * 
 *   **[Note](pplx://action/followup):** Ensure you understand the limitations of the free tier to avoid unexpected charges.
