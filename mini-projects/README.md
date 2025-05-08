@@ -19,7 +19,7 @@ Before proceeding, ensure your system meets the following minimum requirements:
 
 *   ![](https://github.com/istephenmichael/DevOps/blob/144289f75dc8bfda62fe602863b997f2e014b696/mini-projects/aws.png)
 
-*   ![](https://github.com/istephenmichael/DevOps/blob/f516767a81e9f0322bdde367c1422778c721d88b/mini-projects/awsconsole.png)
+*   ![](https://github.com/istephenmichael/DevOps/blob/e7114b839be95e6d8869b04a56869ccb0a8c1c0c/mini-projects/awsconsole.png)
 * 
 *   **[Note](pplx://action/followup):** Ensure you understand the limitations of the free tier to avoid unexpected charges.
 *   **[Security Best Practice](pplx://action/followup):** Create a root user for initial setup, but subsequently create IAM users with specific permissions for daily use.
@@ -31,7 +31,7 @@ Before proceeding, ensure your system meets the following minimum requirements:
 *   **[Action](pplx://action/followup):** Create a GitHub account. - https://github.com/
 *   ![](https://github.com/istephenmichael/DevOps/blob/27bb45c197bc3864c301d9bcda49d0d04f5cbd62/mini-projects/github2.png)
 
-*   ![](https://github.com/istephenmichael/DevOps/blob/f516767a81e9f0322bdde367c1422778c721d88b/mini-projects/githubnew.png) 
+*   ![](https://github.com/istephenmichael/DevOps/blob/e7114b839be95e6d8869b04a56869ccb0a8c1c0c/mini-projects/githubnew.png) 
 *   **[Note](pplx://action/followup):** Enable two-factor authentication (2FA) for enhanced security.
 
 
