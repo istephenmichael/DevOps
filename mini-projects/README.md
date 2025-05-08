@@ -67,8 +67,8 @@ Before proceeding, ensure your system meets the following minimum requirements:
     git config --global user.name "Your Name"
     git config --global user.email "your.email@example.com"
     ```
-*   **[Verification](pplx://action/followup):** Use MobaXterm to verify Git installation by running `git --version`.
-*   ![](https://github.com/istephenmichael/DevOps/blob/f516767a81e9f0322bdde367c1422778c721d88b/mini-projects/git-version.png
+*   **[Verification](pplx://action/followup):** Use MobaXterm to verify Git installation by running `git --version`. 
+*   ![](https://github.com/istephenmichael/DevOps/blob/d5fa5c51d71e9711cca02f3a1fe95d760ec5232b/mini-projects/git-version.png)
 
 ### 4. VirtualBox (Virtualization)
 
