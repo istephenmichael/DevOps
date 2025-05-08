@@ -40,6 +40,8 @@ Before proceeding, ensure your system meets the following minimum requirements:
 *   **[Purpose](pplx://action/followup):** A versatile code editor for writing and editing code.
 *   **[Action](pplx://action/followup):** Download and install VS Code for Windows from the official website 
   - https://code.visualstudio.com/
+  - ![](https://github.com/istephenmichael/DevOps/blob/9f8f358e5ce9972927c94b1f8e213caf455e55ca/mini-projects/vscode_1.png)
+  - ![](https://github.com/istephenmichael/DevOps/blob/9f8f358e5ce9972927c94b1f8e213caf455e55ca/mini-projects/vscode2.png)
   ![[vscode 1.png]]
 ![[vscode2.png]]
 
