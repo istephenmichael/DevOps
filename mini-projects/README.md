@@ -29,7 +29,7 @@ Before proceeding, ensure your system meets the following minimum requirements:
 
 *   **[Purpose](pplx://action/followup):** Version control, collaboration, and code hosting.
 *   **[Action](pplx://action/followup):** Create a GitHub account. - ![]() https://github.com/
-  ![[github 2.png]]
+*   ![](https://github.com/istephenmichael/DevOps/blob/27bb45c197bc3864c301d9bcda49d0d04f5cbd62/mini-projects/github2.png) 
 *   **[Note](pplx://action/followup):** Enable two-factor authentication (2FA) for enhanced security.
 
 
