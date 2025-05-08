@@ -42,8 +42,6 @@ Before proceeding, ensure your system meets the following minimum requirements:
   - https://code.visualstudio.com/
   - ![](https://github.com/istephenmichael/DevOps/blob/9f8f358e5ce9972927c94b1f8e213caf455e55ca/mini-projects/vscode.png)
   - ![](https://github.com/istephenmichael/DevOps/blob/9f8f358e5ce9972927c94b1f8e213caf455e55ca/mini-projects/vscode2.png)
-  ![[vscode 1.png]]
-![[vscode2.png]]
 
 *   **[Configuration](pplx://action/followup):** Install relevant extensions for your preferred programming languages.
 
@@ -59,8 +57,8 @@ Before proceeding, ensure your system meets the following minimum requirements:
 
 *   **[Purpose](pplx://action/followup):** Track changes to code, collaborate with others, and manage code effectively.
 *   **[Action](pplx://action/followup):** Download and install Git for Windows - https://git-scm.com/downloads/win
-  
-![[git.png]]
+*   ![](https://github.com/istephenmichael/DevOps/blob/9f8f358e5ce9972927c94b1f8e213caf455e55ca/mini-projects/git.png)
+*   
 *   **[Configuration](pplx://action/followup):** Configure Git with your name and email address:
 
     ```
@@ -73,6 +71,7 @@ Before proceeding, ensure your system meets the following minimum requirements:
 
 *   **[Purpose](pplx://action/followup):** Run multiple operating systems on a single machine for testing and development.
 *   **[Action](pplx://action/followup):** Download and install VirtualBox - https://www.virtualbox.org/wiki/Downloads
+*   ![](https://github.com/istephenmichael/DevOps/blob/9f8f358e5ce9972927c94b1f8e213caf455e55ca/mini-projects/virtualbox1.png)
   ![[virtualbox 1.png]]
 *   **[Note](pplx://action/followup):** Enable Virtualization Technology (VT-x/AMD-V) in your BIOS/UEFI settings for optimal performance.
 
@@ -81,11 +80,11 @@ Before proceeding, ensure your system meets the following minimum requirements:
 *   **[Purpose](pplx://action/followup):** A Linux distribution for development and testing.
 *   **[Action](pplx://action/followup):**
     1.  Download the Ubuntu ISO file from the official website - https://ubuntu.com/download/desktop
-    ![[ubuntu.png]]
-    2.  Create a new virtual machine in VirtualBox.
-    3.  Mount the Ubuntu ISO file to the virtual machine.
-    4.  Start the virtual machine and follow the on-screen instructions to install Ubuntu.
-    5.
+    2.  ![](https://github.com/istephenmichael/DevOps/blob/9f8f358e5ce9972927c94b1f8e213caf455e55ca/mini-projects/ubuntu.png)
+    3.  Create a new virtual machine in VirtualBox.
+    4.  Mount the Ubuntu ISO file to the virtual machine.
+    5.  Start the virtual machine and follow the on-screen instructions to install Ubuntu.
+    6.
 
 ## 3. Workstation Recommendations
 
