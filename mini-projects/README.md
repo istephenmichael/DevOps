@@ -49,9 +49,9 @@ Before proceeding, ensure your system meets the following minimum requirements:
 
 *   **[Purpose](pplx://action/followup):** A comprehensive terminal emulator for connecting to remote servers and virtual machines.
 *   **[Action](pplx://action/followup):** Download and install MobaXterm - https://mobaxterm.mobatek.net/download.html
+*   ![](https://github.com/istephenmichael/DevOps/blob/f516767a81e9f0322bdde367c1422778c721d88b/mini-projects/mobaxterm.png)
   
-  ![[mobaxterm.png]]
-*   **[Configuration](pplx://action/followup):** Configure SSH keys for secure and password-less connections to remote servers.
+ *   **[Configuration](pplx://action/followup):** Configure SSH keys for secure and password-less connections to remote servers.
 
 ### 3. Git for Windows (Version Control)
 
