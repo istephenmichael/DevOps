@@ -43,7 +43,7 @@ Before proceeding, ensure your system meets the following minimum requirements:
 *   **[Action](pplx://action/followup):** Download and install VS Code for Windows from the official website 
   - https://code.visualstudio.com/
   - ![](https://github.com/istephenmichael/DevOps/blob/9f8f358e5ce9972927c94b1f8e213caf455e55ca/mini-projects/vscode.png)
-  - ![](https://github.com/istephenmichael/DevOps/blob/9f8f358e5ce9972927c94b1f8e213caf455e55ca/mini-projects/vscode2.png)
+  - ![](https://github.com/istephenmichael/DevOps/blob/cb80b88f7c08eef40f8d38a31579d2fa865eb396/mini-projects/vscodewelcome.png)
 
 *   **[Configuration](pplx://action/followup):** Install relevant extensions for your preferred programming languages.
 
