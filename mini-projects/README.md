@@ -36,10 +36,13 @@ Before proceeding, ensure your system meets the following minimum requirements:
 *   **Purpose:** Version control, collaboration, and code hosting.
   
 *   **Action:** Create a GitHub account. - https://github.com/
+
+     ![](https://github.com/istephenmichael/DevOps/blob/3fcb44acccca383659015c8c428ca8a23562b73f/mini-projects/github_home.png)
   
 *   **Note:** Enable two-factor authentication (2FA) for enhanced security.
   
 *  **GitHub User Account Setup dashboard**
+
   ![Github_dashboard](https://github.com/istephenmichael/DevOps/blob/ecf36556325819cdc3768f68cf34989ecd402644/mini-projects/githubnew.png)
 
 
