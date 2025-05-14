@@ -53,6 +53,8 @@ Before proceeding, ensure your system meets the following minimum requirements:
 *   **Purpose:** A versatile code editor for writing and editing code.
   
 *   **Action:** Download and install VS Code for Windows from the official website - https://code.visualstudio.com/
+
+    ![vscode_download](https://github.com/istephenmichael/DevOps/blob/b6e6619935661404b93dea67c986ffeefb609b8d/mini-projects/vscode.png)
   
   **VS Code download page**
    ![vscode_download](https://github.com/istephenmichael/DevOps/blob/21372abac13f4439afb8d583882013ff769e32c8/mini-projects/vscode01.png)
