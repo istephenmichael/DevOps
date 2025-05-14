@@ -18,6 +18,9 @@ Before proceeding, ensure your system meets the following minimum requirements:
 *   **Purpose:** Access to cloud computing resources for development and deployment.
   
 *   **Action:** Create a free tier AWS account. - https://aws.amazon.com/
+    ![](https://github.com/istephenmichael/DevOps/blob/713a0f7e0b4d5e184816a4879287c579bf77219e/mini-projects/aws_free_tier.png)
+
+    ![](https://github.com/istephenmichael/DevOps/blob/713a0f7e0b4d5e184816a4879287c579bf77219e/mini-projects/aws_signin.png)
   
 *   **Note:** Ensure you understand the limitations of the free tier to avoid unexpected charges.
   
