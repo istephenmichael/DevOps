@@ -1,4 +1,5 @@
-# Tech Environment Setup Guide
+
+## Tech Environment Setup Guide
 
 This document outlines the necessary steps and tools for setting up a development environment. It covers essential software installation, account creation, and workstation recommendations.
 
@@ -6,92 +7,109 @@ This document outlines the necessary steps and tools for setting up a developmen
 
 Before proceeding, ensure your system meets the following minimum requirements:
 
-*   **[Operating System](pplx://action/followup):** Windows (recommended for VSCode and Git integration)
-*   **[Memory](pplx://action/followup):** 8GB RAM minimum (16GB recommended for virtualization)
-*   **[Internet Connection](pplx://action/followup):** A stable internet connection is required for downloading software and accessing online services. Consider a backup internet solution for uninterrupted workflow.
+*   **Operating System:** Windows (recommended for VSCode and Git integration)
+*   **Memory:** 8GB RAM minimum (16GB recommended for virtualization)
+*   **Internet Connection:** A stable internet connection is required for downloading software and accessing online services. Consider a backup internet solution for uninterrupted workflow.
 
 ## A. Account Setup
 
 ### 1. AWS Account
 
-*   **[Purpose](pplx://action/followup):** Access to cloud computing resources for development and deployment.
-*   **[Action](pplx://action/followup):** Create a free tier AWS account. - https://aws.amazon.com/
+*   **Purpose:** Access to cloud computing resources for development and deployment.
+  
+*   **Action:** Create a free tier AWS account. - https://aws.amazon.com/
+  
+*   **Note:** Ensure you understand the limitations of the free tier to avoid unexpected charges.
+  
+*   **Security Best Practice:** Create a root user for initial setup, but subsequently create IAM users with specific permissions for daily use.
+  
+* **AWS Management Console Console**
+ ![](https://github.com/istephenmichael/DevOps/blob/e7114b839be95e6d8869b04a56869ccb0a8c1c0c/mini-projects/awsconsole.png)
 
-*   ![](https://github.com/istephenmichael/DevOps/blob/144289f75dc8bfda62fe602863b997f2e014b696/mini-projects/aws.png)
 
-*   ![](https://github.com/istephenmichael/DevOps/blob/e7114b839be95e6d8869b04a56869ccb0a8c1c0c/mini-projects/awsconsole.png)
-* 
-*   **[Note](pplx://action/followup):** Ensure you understand the limitations of the free tier to avoid unexpected charges.
-*   **[Security Best Practice](pplx://action/followup):** Create a root user for initial setup, but subsequently create IAM users with specific permissions for daily use.
-* ![]()
 
 ### 2. GitHub Account
 
-*   **[Purpose](pplx://action/followup):** Version control, collaboration, and code hosting.
-*   **[Action](pplx://action/followup):** Create a GitHub account. - https://github.com/
-*   ![](https://github.com/istephenmichael/DevOps/blob/27bb45c197bc3864c301d9bcda49d0d04f5cbd62/mini-projects/github2.png)
+*   **Purpose:** Version control, collaboration, and code hosting.
+  
+*   **Action:** Create a GitHub account. - https://github.com/
+  
+*   **Note:** Enable two-factor authentication (2FA) for enhanced security.
+  
+*  **GitHub User Account Setup dashboard**
+  ![Github_dashboard](https://github.com/istephenmichael/DevOps/blob/ecf36556325819cdc3768f68cf34989ecd402644/mini-projects/githubnew.png)
 
-*   ![](https://github.com/istephenmichael/DevOps/blob/e7114b839be95e6d8869b04a56869ccb0a8c1c0c/mini-projects/githubnew.png) 
-*   **[Note](pplx://action/followup):** Enable two-factor authentication (2FA) for enhanced security.
 
-
-## B. Software Installation and Configuration
+## B. Software Installation and Configuration![]()
 
 ### 1. VS Code (Code Editor)
 
-*   **[Purpose](pplx://action/followup):** A versatile code editor for writing and editing code.
-*   **[Action](pplx://action/followup):** Download and install VS Code for Windows from the official website 
-  - https://code.visualstudio.com/
-  - ![](https://github.com/istephenmichael/DevOps/blob/9f8f358e5ce9972927c94b1f8e213caf455e55ca/mini-projects/vscode.png)
-  - ![](https://github.com/istephenmichael/DevOps/blob/cb80b88f7c08eef40f8d38a31579d2fa865eb396/mini-projects/vscodewelcome.png)
-
-*   **[Configuration](pplx://action/followup):** Install relevant extensions for your preferred programming languages.
+*   **Purpose:** A versatile code editor for writing and editing code.
+  
+*   **Action:** Download and install VS Code for Windows from the official website - https://code.visualstudio.com/
+  
+  **VS Code download page**
+   ![vscode_download](https://github.com/istephenmichael/DevOps/blob/21372abac13f4439afb8d583882013ff769e32c8/mini-projects/vscode01.png)
+  
+*   **Configuration:** Install relevant extensions for your preferred programming languages.
+  
+* VS Code Welcome Screen
+  ![vscode_screen](https://github.com/istephenmichael/DevOps/blob/21372abac13f4439afb8d583882013ff769e32c8/mini-projects/vscode02.png)
 
 ### 2. MobaXterm (Remote Terminal)
 
-*   **[Purpose](pplx://action/followup):** A comprehensive terminal emulator for connecting to remote servers and virtual machines.
-*   **[Action](pplx://action/followup):** Download and install MobaXterm - https://mobaxterm.mobatek.net/download.html
-*   ![](https://github.com/istephenmichael/DevOps/blob/f516767a81e9f0322bdde367c1422778c721d88b/mini-projects/mobaxterm.png)
+*   **Purpose:** A comprehensive terminal emulator for connecting to remote servers and virtual machines.
   
- *   **[Configuration](pplx://action/followup):** Configure SSH keys for secure and password-less connections to remote servers.
+*   **Action:** Download and install MobaXterm - https://mobaxterm.mobatek.net/download.html
+  
+  **MobaXterm download page:** 
+  ![MobaXterm](https://github.com/istephenmichael/DevOps/blob/21372abac13f4439afb8d583882013ff769e32c8/mini-projects/mobaxterm.png)
+  
+* **Configuration:** Configure SSH keys for secure and password-less connections to remote servers.
 
 ### 3. Git for Windows (Version Control)
 
-*   **[Purpose](pplx://action/followup):** Track changes to code, collaborate with others, and manage code effectively.
-*   **[Action](pplx://action/followup):** Download and install Git for Windows - https://git-scm.com/downloads/win
-*   ![](https://github.com/istephenmichael/DevOps/blob/9f8f358e5ce9972927c94b1f8e213caf455e55ca/mini-projects/git.png)
-*   
-*   **[Configuration](pplx://action/followup):** Configure Git with your name and email address:
+*   **Purpose:** Track changes to code, collaborate with others, and manage code effectively.
+  
+*   **Action:** Download and install Git for Windows - https://git-scm.com/downloads/win
+  
+  **Git download page:** 
+![git_win](https://github.com/istephenmichael/DevOps/blob/21372abac13f4439afb8d583882013ff769e32c8/mini-projects/git.png)
+
+*   **Configuration:** Configure Git with your name and email address:
 
     ```
     git config --global user.name "Your Name"
     git config --global user.email "your.email@example.com"
     ```
-*   **[Verification](pplx://action/followup):** Use MobaXterm to verify Git installation by running `git --version`. 
-*   ![](https://github.com/istephenmichael/DevOps/blob/d5fa5c51d71e9711cca02f3a1fe95d760ec5232b/mini-projects/git-version.png)
+*   **[Verification](pplx://action/followup):** Use MobaXterm to verify Git installation by running `git --version`.
+  
+  **Git Installation Confirmation page:** 
+![git_win2](https://github.com/istephenmichael/DevOps/blob/21372abac13f4439afb8d583882013ff769e32c8/mini-projects/git-version.png)
 
 ### 4. VirtualBox (Virtualization)
 
-*   **[Purpose](pplx://action/followup):** Run multiple operating systems on a single machine for testing and development.
-*   **[Action](pplx://action/followup):** Download and install VirtualBox - https://www.virtualbox.org/wiki/Downloads
-*   ![](https://github.com/istephenmichael/DevOps/blob/01da347c01f10d06fbf4837d16e25ff3e34535bb/mini-projects/virtualbox.png)
-*   **[Note](pplx://action/followup):** Enable Virtualization Technology (VT-x/AMD-V) in your BIOS/UEFI settings for optimal performance.
+*   **Purpose:** Run multiple operating systems on a single machine for testing and development.
+*   **Action:** Download and install VirtualBox - https://www.virtualbox.org/wiki/Downloads
+  ![[virtualbox 1.png]]
+*   **Note:** Enable Virtualization Technology (VT-x/AMD-V) in your BIOS/UEFI settings for optimal performance.
 
 ### 5. Ubuntu (Virtual Machine)
 
-*   **[Purpose](pplx://action/followup):** A Linux distribution for development and testing.
-*   **[Action](pplx://action/followup):**
+*   **Purpose:** A Linux distribution for development and testing.
+*  **Action:**
     1.  Download the Ubuntu ISO file from the official website - https://ubuntu.com/download/desktop
-    2.  ![](https://github.com/istephenmichael/DevOps/blob/9f8f358e5ce9972927c94b1f8e213caf455e55ca/mini-projects/ubuntu.png)
-    3.  Create a new virtual machine in VirtualBox.
-    4.  Mount the Ubuntu ISO file to the virtual machine.
-    5.  Start the virtual machine and follow the on-screen instructions to install Ubuntu.
-    6.
+    ![[ubuntu.png]]
+    2.  Create a new virtual machine in VirtualBox.
+    3.  Mount the Ubuntu ISO file to the virtual machine.
+    4.  Start the virtual machine and follow the on-screen instructions to install Ubuntu.
+    5.
 
 ## 3. Workstation Recommendations
 
-*   **[RAM](pplx://action/followup):** 8GB minimum, 16GB recommended for running virtual machines and resource-intensive applications.
-*   **[Storage](pplx://action/followup):** SSD (Solid State Drive) for faster boot times and application loading.
+*   **RAM:** 8GB minimum, 16GB recommended for running virtual machines and resource-intensive applications.
+  
+*   **Storage:** SSD (Solid State Drive) for faster boot times and application loading.
 
 ## Conclusion
 
