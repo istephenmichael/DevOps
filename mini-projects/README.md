@@ -99,6 +99,9 @@ Before proceeding, ensure your system meets the following minimum requirements:
 
 *   **Purpose:** Run multiple operating systems on a single machine for testing and development.
 *   **Action:** Download and install VirtualBox - https://www.virtualbox.org/wiki/Downloads
+    
+    ![virtualbox](https://github.com/istephenmichael/DevOps/blob/7e7a14245026fa94dd66ee9532c5c8dc5dcaf4a6/mini-projects/virtualbox.png)
+       
   ![[virtualbox 1.png]]
 *   **Note:** Enable Virtualization Technology (VT-x/AMD-V) in your BIOS/UEFI settings for optimal performance.
 
@@ -107,7 +110,9 @@ Before proceeding, ensure your system meets the following minimum requirements:
 *   **Purpose:** A Linux distribution for development and testing.
 *  **Action:**
     1.  Download the Ubuntu ISO file from the official website - https://ubuntu.com/download/desktop
-    ![[ubuntu.png]]
+
+    ![ubuntu](https://github.com/istephenmichael/DevOps/blob/f0717ea639a6a917a4e4f913ff9e0520edae4912/mini-projects/ubuntu.png)
+    
     2.  Create a new virtual machine in VirtualBox.
     3.  Mount the Ubuntu ISO file to the virtual machine.
     4.  Start the virtual machine and follow the on-screen instructions to install Ubuntu.
